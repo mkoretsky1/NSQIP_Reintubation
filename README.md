@@ -2,7 +2,7 @@
 
 This repository contains everything necessary to obtain the results from the thesis.
 
-A folder must be created that contains the raw ACS NSQIP data (included in gitignore). 
+A folder must be created within this folder that contains the raw ACS NSQIP data (included in gitignore). 
 
 1. clean.py:
 
