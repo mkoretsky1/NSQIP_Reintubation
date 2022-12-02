@@ -1,6 +1,6 @@
 # A Machine Learning Approach to Predicting Early and Late Reintubation
 
-Contains everything necessary to obtain the results from the journal article (Figure and Table numbers need to be updated).
+Contains everything necessary to obtain the results from the Journal of Clinical Monitoring and Computing original research paper (Figure and Table numbers need to be updated).
 
 doi: 10.1007/s10877-022-00908-z
 
